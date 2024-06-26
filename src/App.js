@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Data Grid </h1>
+        <h1>Datagrid Using Material UI </h1>
       </header>
       <div className="container">
         <DataGridComponent />
